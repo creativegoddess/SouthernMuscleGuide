@@ -1283,7 +1283,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/testing-for-ad-space-for-smg-1-728x900.png\"></div>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/testing-for-ad-space-for-smg-1-728x902.png\"></div>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1899,7 +1899,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/testing-for-ad-space-for-smg-1-728x901.png\"></div>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/testing-for-ad-space-for-smg-1-728x903.png\"></div>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
